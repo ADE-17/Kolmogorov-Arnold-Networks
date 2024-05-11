@@ -34,16 +34,16 @@ Kolmogorov-Arnold Networks (KANs) work by learning both the structure of a probl
 ### Training KANs
 
 #### KAN at initialization
-![KAN at initialization](kan_init.png)
+![KAN at initialization](images/kan_init.png)
 
 #### KAN after training once
-![KAN after training once](kan_after.png)
+![KAN after training once](images/kan_after.png)
 
 #### Pruned KAN
-![Pruned KAN](kan_prune.png)
+![Pruned KAN](images/kan_prune.png)
 
 ### Training on sample dataset
-![KAN metrics](metrics.png)
+![KAN metrics](images/metrics.png)
 
 
 
